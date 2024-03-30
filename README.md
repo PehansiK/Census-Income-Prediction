@@ -19,5 +19,5 @@ For dataset info : https://archive.ics.uci.edu/dataset/2/adult
 - To train and evaluate the Naive Bayes model: NaiveBayes.ipynb
 
 ## Results
-- Random Forest achieved an accuracy of 87%.
-- Naive Bayes achieved an accuracy of 81%.
+- Random Forest achieved an accuracy of 85%.
+- Naive Bayes achieved an accuracy of 80%.
